@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 66C5-B39B
+
+ Directory of C:\Users\dipan\OneDrive\Desktop\MyProject
+
+13-02-2022  16:11    <DIR>          .
+13-02-2022  16:09    <DIR>          ..
+13-02-2022  16:11                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  444,838,903,808 bytes free
